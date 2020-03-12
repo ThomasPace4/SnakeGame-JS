@@ -1,2 +1,2 @@
 # SnakeGame-JS
-Simple snake game in JS
+Simple snake game using JS
